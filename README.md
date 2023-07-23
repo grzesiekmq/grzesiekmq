@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,html,linux,lua,mysql,nodejs,postman,r,regex,threejs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,html,linux,mysql,nodejs,postman,r,regex,threejs,unity)](https://skillicons.dev)
 
