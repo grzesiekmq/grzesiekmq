@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 🌱 I’m currently learning c#  
+ 🌱 I’m currently learning ai/ml/genAI  
 
 join backend chat https://discord.com/invite/KjrKkWVAYU  
  my discord community server
