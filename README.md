@@ -4,7 +4,7 @@
  🌱 I’m currently learning ai/ml/genAI  
 
 join backend chat https://discord.com/invite/KjrKkWVAYU  
- my discord community server
+ my discord community server  
 visitors:  
 ![Visitor Count](https://profile-counter.glitch.me/grzesiekmq/count.svg)
 
