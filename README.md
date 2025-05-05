@@ -6,7 +6,7 @@
 join backend chat https://discord.com/invite/KjrKkWVAYU  
  my discord community server  
 visitors:  
-![Visitor Count](https://profile-counter.glitch.me/grzesiekmq/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=grzesiekmq.grzesiekmq&)
 
 <!-- - 🌱 I’m currently learning  
 **grzesiekmq/grzesiekmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
