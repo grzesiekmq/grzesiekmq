@@ -5,7 +5,7 @@
 
 join backend chat https://discord.com/invite/KjrKkWVAYU  
  my discord community server  
-visitors:  
+  
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=grzesiekmq.grzesiekmq&)
 
 <!-- - 🌱 I’m currently learning  
