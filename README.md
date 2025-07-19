@@ -8,34 +8,34 @@
 Independent developer exploring computer graphics, game development, and machine learning.
 Occasional Unity user (2+ years), with interest in building lightweight engines and tools.
 
-Selected Projects
+# Selected Projects
 
-rgnjs
+## rgnjs
 
 Three.js-based editor for the RGN engine (racing-oriented project ported from C#). Focus on simple scene editing, asset layout, and 3D interaction.
 Stack: JavaScript, Three.js, HTML/CSS
 
-rt
+## rt
 
 Ray tracing MVP written in Node.js, featuring a custom triangle intersection algorithm. Focused on algorithmic clarity and educational value.
 Stack: Node.js, Vector Math, No external 3D libraries
 
-r2e-vulkan
+## r2e-vulkan
 
 Early-stage Vulkan renderer prototype. Low-level rendering engine with manual resource binding, swapchain handling, and direct pipeline setup.
 Stack: C++, Vulkan SDK
 
-RPGather
+## RPGather
 
 Unity-based RPG prototype showcasing inventory systems, dialogue triggers, and scene transitions.
 Stack: Unity (C#), no external backend
 
-unity-supercars-dream
+## unity-supercars-dream
 
 A Unity project focusing on car handling and early UI prototyping. Proof-of-concept for arcade-style driving controls.
 Stack: Unity (C#)
 
-MBANet
+## MBANet
 
 Lightweight MLP neural network model for Market Basket Analysis.
 Stack: Python, NumPy, custom training loop
@@ -43,7 +43,7 @@ Stack: Python, NumPy, custom training loop
 
 ---
 
-🧠 Interests
+# 🧠 Interests
 
 Ray tracing & low-level rendering
 
