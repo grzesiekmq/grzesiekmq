@@ -3,6 +3,15 @@
 
  🌱 I’m currently learning ai/ml/genAI  
 
+I have **154 public repositories** in total, but **65 of them are my original projects**.  
+The rest are mostly forks of educational repositories from `learn-co-students`.
+
+---
+
+*Forks of educational projects, smaller experiments, and archived repositories are not shown here for clarity.*
+
+Feel free to explore my repositories and reach out if you want to collaborate!
+
 # grzesiekmq
 
 Independent developer exploring computer graphics, game development, and machine learning.
